@@ -1,0 +1,4 @@
+S -> bS | acdA | aC
+A -> aS
+C -> *
+end
